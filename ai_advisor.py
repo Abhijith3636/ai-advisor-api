@@ -130,6 +130,13 @@ def generate_advice(user, goals, investments, insurance):
     total_required_saving = 0
     affordable_goals = 0
 
+    if not investments and not insurance:
+        advice.append({
+            "category": "System Alert",
+            "priority": "High",
+            "message": "🔰 You haven't started investing or bought any insurance. Begin by saving at least 10–20% of your income. Then explore simple low-risk investments and basic insurance to protect your finances."
+            })
+
     if monthly_savings <= 0:
         savings_rate = 0
         priority = "High"
@@ -235,74 +242,83 @@ def generate_advice(user, goals, investments, insurance):
         sum(ins.get("amount", 0) for ins in insurance)
     )
 
-    category_allocation = defaultdict(float)
-
-    # Add investment amounts
-    for inv in filtered_investments:
-        category_allocation[inv["instrument_name"]] += inv["amount"]
-
-    # ✅ Add insurance as a separate category
-    category_allocation["Insurance"] += sum(ins.get("amount", 0) for ins in insurance)
-    
-
-    allocation_summary = []
-    over_concentrated = False
-    for name, amt in category_allocation.items():
-        percent = (amt / total_investment) * 100
-        allocation_summary.append(f"• {name}: {percent:.1f}%")
-        if percent > 70:
-            over_concentrated = True
-
-    if over_concentrated:
+    if total_investment == 0:
         advice.append({
             "category": "Investment",
-            "priority": "Medium",
-            "message": (
-                f"⚠️ Your investments are highly concentrated.\n"
-                f"🔍 Allocation:\n" + "\n".join(allocation_summary) +
-                "\n💡 Consider diversifying further to manage risk."
-            )
+            "priority": "High",
+            "message": "⚠️ You have no investments yet. Start investing a portion of your savings to build long-term wealth."
         })
     else:
+    
+
+        category_allocation = defaultdict(float)
+
+        # Add investment amounts
+        for inv in filtered_investments:
+            category_allocation[inv["instrument_name"]] += inv["amount"]
+
+        # ✅ Add insurance as a separate category
+        category_allocation["Insurance"] += sum(ins.get("amount", 0) for ins in insurance)
+        
+
+        allocation_summary = []
+        over_concentrated = False
+        for name, amt in category_allocation.items():
+            percent = (amt / total_investment) * 100
+            allocation_summary.append(f"• {name}: {percent:.1f}%")
+            if percent > 70:
+                over_concentrated = True
+
+        if over_concentrated:
+            advice.append({
+                "category": "Investment",
+                "priority": "Medium",
+                "message": (
+                    f"⚠️ Your investments are highly concentrated.\n"
+                    f"🔍 Allocation:\n" + "\n".join(allocation_summary) +
+                    "\n💡 Consider diversifying further to manage risk."
+                )
+            })
+        else:
+            advice.append({
+                "category": "Investment",
+                "priority": "Low",
+                "message": (
+                    f"✅ Your investment spread looks balanced.\n"
+                    f"🔍 Allocation:\n" + "\n".join(allocation_summary)
+                )
+            })
+        
+    # Asset Class Exposure Summary
+        asset_classes = {
+            "Debt": ["Bank FD", "Debt Mutual Fund"],
+            "Equity": ["Equity Mutual Fund", "ELSS Mutual Fund", "Stocks"],
+            "Hybrid": ["PPF", "ULIP", "NPS"],
+            "Alternative": ["Sovereign Gold Bonds", "Real Estate Investment"]
+        }
+
+        class_totals = defaultdict(float)
+        for inv in investments:
+            for category, names in asset_classes.items():
+                if inv["instrument_name"] in names:
+                    class_totals[category] += inv["amount"]
+                    break
+
+        asset_summary = []
+        for cat, amt in class_totals.items():
+            percent = (amt / total_investment) * 100
+            asset_summary.append(f"• {cat}: {percent:.1f}%")
+
+        dominant_asset = max(class_totals, key=class_totals.get) if class_totals else "None"
         advice.append({
             "category": "Investment",
-            "priority": "Low",
+            "priority": "Medium" if dominant_asset == "Debt" else "Low",
             "message": (
-                f"✅ Your investment spread looks balanced.\n"
-                f"🔍 Allocation:\n" + "\n".join(allocation_summary)
+                f"📊 Asset Class Exposure:\n" + "\n".join(asset_summary) +
+                f"\n💡 Dominant class: {dominant_asset}. "
+                + ("Consider adding equity instruments for long-term growth." if dominant_asset == "Debt" else "Your asset allocation looks reasonable.")
             )
         })
-    
-   # Asset Class Exposure Summary
-    asset_classes = {
-        "Debt": ["Bank FD", "Debt Mutual Fund"],
-        "Equity": ["Equity Mutual Fund", "ELSS Mutual Fund", "Stocks"],
-        "Hybrid": ["PPF", "ULIP", "NPS"],
-        "Alternative": ["Sovereign Gold Bonds", "Real Estate Investment"]
-    }
-
-    class_totals = defaultdict(float)
-    for inv in investments:
-        for category, names in asset_classes.items():
-            if inv["instrument_name"] in names:
-                class_totals[category] += inv["amount"]
-                break
-
-    asset_summary = []
-    for cat, amt in class_totals.items():
-        percent = (amt / total_investment) * 100
-        asset_summary.append(f"• {cat}: {percent:.1f}%")
-
-    dominant_asset = max(class_totals, key=class_totals.get) if class_totals else "None"
-    advice.append({
-        "category": "Investment",
-        "priority": "Medium" if dominant_asset == "Debt" else "Low",
-        "message": (
-            f"📊 Asset Class Exposure:\n" + "\n".join(asset_summary) +
-            f"\n💡 Dominant class: {dominant_asset}. "
-            + ("Consider adding equity instruments for long-term growth." if dominant_asset == "Debt" else "Your asset allocation looks reasonable.")
-        )
-    })
 
 
     # Goal Planning (ML + Explanation)
