@@ -52,12 +52,33 @@ class AdvisorInput(BaseModel):
 @app.post("/advisor")
 def get_advice(payload: AdvisorInput):
     try:
-        result = generate_advice(
-            user=payload.user.dict(),
-            goals=[g.dict() for g in payload.goals],
-            investments=[i.dict() for i in payload.investments],
-            insurance=[ins.dict() for ins in payload.insurance]
+        user = payload.user.dict()
+        goals = [g.dict() for g in payload.goals]
+        investments = [i.dict() for i in payload.investments]
+        insurance = [ins.dict() for ins in payload.insurance]
+
+        advice = generate_advice(
+            user=user,
+            goals=goals,
+            investments=investments,
+            insurance=insurance
         )
-        return result
+
+        # Include additional fields like savings summary
+        monthly_savings = user["salary"] - user.get("expenses", 0)
+
+        return {
+            "user": {
+                "name": user.get("name"),
+                "salary": user.get("salary"),
+                "age": user.get("age"),
+                "savings": user.get("savings"),
+                "expenses": user.get("expenses"),
+            },
+            "monthly_savings": monthly_savings,
+            "advice": advice
+        }
+
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
