@@ -1,0 +1,1001 @@
+age,salary,savings,risk_profile,goal,goal_amount,years_to_goal,selected_instrument,outcome
+42,88031,488181,Medium,Emergency Fund,8552892,13,RD,Partial
+44,51632,292552,Medium,Buy a House,4058626,23,Debt Mutual Fund,Partial
+31,99550,449206,Low,Child Education,8122530,11,Balanced Mutual Fund,Success
+28,146253,91262,Medium,Child Education,4727535,9,PPF,Failed
+22,93731,113669,Medium,Retirement,4863042,25,PPF,Success
+31,131535,48207,Low,Travel Abroad,7904195,7,Gold ETF,Partial
+58,96145,24443,Low,Tax Saving,9861427,21,ELSS Mutual Fund,Success
+40,96431,81390,Medium,Child Education,1513630,25,PPF,Success
+49,42660,229700,Low,Emergency Fund,2587293,18,RD,Partial
+40,62956,368133,Medium,Buy a House,8529406,2,PPF,Success
+54,96844,486035,Medium,Retirement,5638077,24,PPF,Failed
+52,117297,255770,High,Retirement,7993922,14,Equity Mutual Fund,Partial
+44,136893,340038,High,Tax Saving,2646311,14,ELSS Mutual Fund,Success
+32,27192,386300,High,Child Education,5618315,18,Balanced Mutual Fund,Success
+60,51826,304895,Low,Retirement,4150706,18,NPS,Success
+40,87949,114846,High,Buy a House,839270,19,PPF,Success
+52,89278,183812,Medium,Travel Abroad,1329133,4,Savings Account,Partial
+22,64042,282189,Medium,Tax Saving,8569069,20,PPF,Partial
+43,89550,152828,High,Child Education,3564494,14,PPF,Partial
+26,36724,60623,Medium,Buy a House,2801737,1,Debt Mutual Fund,Partial
+43,39407,221879,High,Emergency Fund,1180447,9,Savings Account,Success
+31,82411,432717,High,Car Purchase,1394537,1,FD,Success
+38,126473,117985,Medium,Child Education,377827,10,Sukanya Samriddhi,Partial
+41,105166,269591,High,Tax Saving,7000555,3,ULIP,Success
+34,48419,311851,Low,Tax Saving,2434253,16,ULIP,Success
+43,35786,100223,Medium,Buy a House,4646325,20,FD,Success
+40,71652,292694,High,Retirement,1268745,14,Equity Mutual Fund,Success
+55,113500,167148,High,Emergency Fund,1518940,1,RD,Success
+41,128006,62928,High,Child Education,9215664,16,PPF,Success
+44,133441,240598,High,Travel Abroad,5567887,5,Debt Mutual Fund,Success
+44,131043,370678,Low,Retirement,2501501,8,Equity Mutual Fund,Success
+43,54242,209657,Low,Travel Abroad,8582715,8,Gold ETF,Partial
+52,96831,297734,High,Tax Saving,6264173,13,PPF,Success
+32,51745,466283,Medium,Car Purchase,1793709,11,Debt Mutual Fund,Success
+41,68097,205816,High,Buy a House,7150812,12,PPF,Partial
+55,28004,306032,High,Retirement,7336732,3,Equity Mutual Fund,Partial
+48,43437,221328,High,Buy a House,2968293,21,Debt Mutual Fund,Success
+37,93778,414973,Low,Retirement,3571504,15,NPS,Success
+57,61299,285506,Low,Child Education,1058412,17,PPF,Success
+42,137313,411769,Low,Travel Abroad,9062213,9,Gold ETF,Failed
+30,28491,82763,Medium,Retirement,7119179,20,PPF,Success
+55,149601,174528,Medium,Tax Saving,1334201,22,ULIP,Success
+58,126376,235646,Low,Child Education,7828101,23,Balanced Mutual Fund,Success
+57,60706,299640,High,Travel Abroad,1375430,16,Savings Account,Partial
+28,40395,234111,Medium,Tax Saving,2017690,21,PPF,Partial
+45,33242,361664,Medium,Retirement,1462733,12,Equity Mutual Fund,Success
+22,129509,11720,Low,Retirement,3883348,8,NPS,Partial
+60,41556,11891,Medium,Tax Saving,2363850,6,PPF,Partial
+38,122280,261965,Medium,Travel Abroad,1738543,10,Gold ETF,Success
+36,103509,271495,Medium,Retirement,725135,17,PPF,Success
+59,103348,483052,Low,Buy a House,5520958,9,Debt Mutual Fund,Success
+40,79646,345692,Low,Travel Abroad,8756427,5,Gold ETF,Failed
+41,92785,215023,Low,Car Purchase,3512218,14,FD,Failed
+28,46425,213508,Medium,Tax Saving,1526472,25,ELSS Mutual Fund,Partial
+49,75465,15952,High,Buy a House,2748094,11,FD,Partial
+46,26072,351885,Medium,Car Purchase,7933133,7,Debt Mutual Fund,Success
+34,83708,334565,Low,Child Education,861497,5,Balanced Mutual Fund,Success
+25,60053,325893,High,Emergency Fund,2217465,3,RD,Partial
+24,29963,291257,High,Travel Abroad,3204954,14,Gold ETF,Partial
+34,71690,125867,Medium,Travel Abroad,8428619,5,Debt Mutual Fund,Partial
+57,77507,469180,Medium,Child Education,686008,17,PPF,Success
+33,116253,361130,Medium,Car Purchase,881318,14,FD,Success
+33,147313,205076,Medium,Buy a House,8456581,24,PPF,Success
+37,95443,478846,Medium,Buy a House,2586122,4,PPF,Success
+33,118279,369904,Low,Buy a House,7955815,1,PPF,Partial
+59,45630,487440,Low,Travel Abroad,1520907,5,Debt Mutual Fund,Success
+27,78797,282536,High,Retirement,9078280,14,NPS,Partial
+56,35403,352164,High,Car Purchase,9824229,1,RD,Success
+29,116433,144129,Medium,Car Purchase,2574247,8,Debt Mutual Fund,Success
+47,95688,18632,High,Retirement,3545703,17,NPS,Success
+52,30896,363925,High,Travel Abroad,4151029,19,Savings Account,Success
+39,132866,452759,Low,Emergency Fund,9295426,18,Liquid Mutual Fund,Success
+40,30034,284549,Medium,Travel Abroad,1139261,6,Savings Account,Success
+43,106246,355298,Low,Child Education,4541226,10,Sukanya Samriddhi,Partial
+40,108694,409428,Medium,Buy a House,5410328,4,Debt Mutual Fund,Success
+56,118817,343505,Low,Retirement,8282201,10,PPF,Success
+52,33328,42058,Low,Emergency Fund,1381170,22,Liquid Mutual Fund,Success
+56,102725,236820,High,Buy a House,4403559,24,PPF,Partial
+48,68586,111321,Low,Tax Saving,9160427,12,ELSS Mutual Fund,Success
+59,141226,474926,Medium,Buy a House,4732071,19,FD,Success
+27,95207,126458,Medium,Buy a House,7594602,1,FD,Success
+39,134130,474532,Medium,Travel Abroad,9239278,5,Debt Mutual Fund,Success
+57,44189,109104,Medium,Emergency Fund,131726,6,Savings Account,Success
+49,88217,403963,Low,Emergency Fund,418591,25,Liquid Mutual Fund,Failed
+35,115015,448058,High,Emergency Fund,3852026,10,Liquid Mutual Fund,Failed
+29,37376,296345,Medium,Car Purchase,4126988,2,FD,Success
+59,94272,52621,Medium,Car Purchase,9578824,18,Debt Mutual Fund,Success
+51,115986,320831,Medium,Child Education,7105628,10,Sukanya Samriddhi,Success
+25,43867,490438,Medium,Retirement,5045838,1,NPS,Partial
+25,112833,451238,High,Child Education,5821303,16,PPF,Partial
+56,99785,341957,Low,Car Purchase,6932895,14,FD,Failed
+50,109173,236922,Medium,Buy a House,2046756,23,Debt Mutual Fund,Partial
+43,97302,94153,Medium,Emergency Fund,7706661,13,RD,Success
+39,79170,182160,Medium,Tax Saving,2871969,17,PPF,Partial
+51,38877,191515,Medium,Car Purchase,8341906,8,RD,Partial
+28,85125,26063,High,Retirement,2260861,5,PPF,Failed
+47,96861,377227,Medium,Travel Abroad,8981408,7,Savings Account,Success
+31,102979,368637,High,Car Purchase,6874209,9,RD,Success
+54,87570,74928,Medium,Tax Saving,101640,3,ELSS Mutual Fund,Partial
+28,32485,162339,Low,Car Purchase,3140681,2,RD,Success
+37,112966,389854,Low,Emergency Fund,3779444,21,Liquid Mutual Fund,Success
+50,126401,82370,Low,Child Education,4042222,23,Balanced Mutual Fund,Partial
+43,32165,380483,Medium,Travel Abroad,9129317,10,Gold ETF,Failed
+38,36044,318697,Low,Emergency Fund,3480226,17,Savings Account,Success
+37,45172,73428,High,Retirement,7749631,8,NPS,Success
+22,137251,409782,High,Retirement,5362634,19,NPS,Success
+26,53376,271378,Low,Car Purchase,1139002,6,RD,Success
+34,55993,457500,Medium,Car Purchase,8705388,7,Debt Mutual Fund,Success
+58,101879,59567,High,Tax Saving,6522388,17,PPF,Failed
+36,118992,273769,Low,Retirement,2300898,23,NPS,Success
+41,39875,100514,Medium,Car Purchase,8995636,6,RD,Success
+60,68469,182989,Low,Child Education,1183462,18,Balanced Mutual Fund,Failed
+23,85084,247248,Low,Retirement,6443827,9,Equity Mutual Fund,Partial
+38,75290,236788,Medium,Tax Saving,9262210,22,PPF,Success
+54,87385,326588,High,Buy a House,7387803,1,Debt Mutual Fund,Success
+46,92484,26138,High,Buy a House,3099219,18,FD,Success
+36,48604,72745,High,Retirement,1273281,23,Equity Mutual Fund,Failed
+46,49801,418548,Medium,Tax Saving,4860778,16,ELSS Mutual Fund,Success
+25,136467,365628,Low,Buy a House,7616045,16,FD,Success
+41,32951,354951,Low,Retirement,1609645,22,PPF,Success
+32,96233,249746,Medium,Tax Saving,9634634,18,PPF,Success
+47,146084,13437,Medium,Buy a House,3579794,21,Debt Mutual Fund,Success
+33,129643,386593,Medium,Buy a House,6970010,17,FD,Partial
+49,35991,300472,Medium,Emergency Fund,8107912,5,Liquid Mutual Fund,Partial
+35,123099,288250,Low,Child Education,4424156,14,Balanced Mutual Fund,Success
+32,121360,102178,High,Car Purchase,4513638,23,FD,Success
+27,125431,327725,Medium,Car Purchase,1994837,4,FD,Failed
+57,83222,86000,Low,Travel Abroad,398902,3,Gold ETF,Success
+57,67810,246752,Low,Child Education,8110751,22,PPF,Partial
+39,33490,194721,Medium,Emergency Fund,6454311,14,RD,Success
+37,123993,52089,Medium,Child Education,4594073,18,Balanced Mutual Fund,Success
+56,120448,238402,Medium,Child Education,2461511,7,Balanced Mutual Fund,Partial
+35,102991,83825,Low,Child Education,2212846,20,Sukanya Samriddhi,Failed
+32,82375,474967,Medium,Retirement,3567998,19,Equity Mutual Fund,Success
+23,107505,481576,Low,Emergency Fund,9541158,6,RD,Success
+24,131578,324338,Medium,Child Education,7267263,13,Sukanya Samriddhi,Failed
+25,95150,468112,Medium,Emergency Fund,2100340,3,RD,Success
+27,56822,159804,High,Child Education,6067980,10,Sukanya Samriddhi,Success
+51,36623,408255,Medium,Car Purchase,3018380,3,FD,Success
+47,123690,409955,Low,Child Education,1794083,10,Balanced Mutual Fund,Success
+37,29901,474606,Medium,Car Purchase,9448750,14,RD,Partial
+36,116462,187237,Low,Travel Abroad,2096090,20,Gold ETF,Success
+27,101279,55940,Medium,Emergency Fund,617259,21,Liquid Mutual Fund,Partial
+55,121676,185847,Medium,Tax Saving,3233458,19,ELSS Mutual Fund,Partial
+30,87480,98516,Medium,Child Education,3991485,23,Balanced Mutual Fund,Partial
+31,139397,292866,Medium,Buy a House,2221063,15,FD,Success
+54,84047,106482,Medium,Child Education,7864565,19,PPF,Success
+23,114106,241251,Medium,Travel Abroad,1056970,25,Savings Account,Partial
+35,39251,104024,Medium,Car Purchase,8616663,5,FD,Success
+53,97522,298388,Low,Tax Saving,5795911,5,ELSS Mutual Fund,Partial
+33,146983,315173,Low,Retirement,5355317,22,Equity Mutual Fund,Partial
+48,134218,340037,High,Retirement,1639906,24,Equity Mutual Fund,Success
+40,130755,264470,Medium,Retirement,2152445,21,NPS,Success
+58,77915,190554,Medium,Emergency Fund,2973906,3,Liquid Mutual Fund,Partial
+29,83712,445624,Medium,Tax Saving,6859541,9,PPF,Success
+32,122075,454964,Medium,Travel Abroad,8282105,6,Savings Account,Success
+44,26696,310830,Medium,Child Education,3166751,21,Balanced Mutual Fund,Partial
+34,29845,255341,Low,Car Purchase,666452,10,Debt Mutual Fund,Success
+42,85880,338956,Medium,Car Purchase,5448987,5,Debt Mutual Fund,Success
+37,119067,25082,High,Tax Saving,9966978,18,ELSS Mutual Fund,Partial
+55,31209,172274,High,Emergency Fund,6820161,16,Savings Account,Success
+42,33891,187761,Medium,Retirement,6258378,1,PPF,Partial
+25,73626,297672,High,Tax Saving,8129743,5,PPF,Success
+52,98888,227311,Medium,Buy a House,6045008,2,Debt Mutual Fund,Failed
+52,127249,240156,High,Retirement,2093184,9,NPS,Success
+47,92226,464714,High,Car Purchase,2575919,25,FD,Partial
+46,112764,39183,High,Retirement,8411171,12,NPS,Success
+48,127765,270779,High,Buy a House,946325,12,Debt Mutual Fund,Failed
+47,68573,172351,High,Emergency Fund,2634736,24,RD,Partial
+47,44901,173622,Medium,Tax Saving,1851018,18,ULIP,Partial
+51,79778,82755,Low,Emergency Fund,6181680,20,Liquid Mutual Fund,Partial
+60,26368,159968,Medium,Travel Abroad,5300471,18,Gold ETF,Partial
+32,122203,188403,High,Retirement,8335620,15,PPF,Failed
+44,91257,147058,Medium,Retirement,456487,6,Equity Mutual Fund,Success
+31,141906,430553,High,Buy a House,3083923,7,Debt Mutual Fund,Success
+46,149932,209074,Low,Retirement,537850,2,PPF,Partial
+38,72335,228975,Medium,Car Purchase,9052001,13,RD,Failed
+37,98875,206035,Medium,Car Purchase,6148977,1,FD,Success
+40,60813,478282,Low,Child Education,3776154,11,Sukanya Samriddhi,Partial
+30,28841,186103,Low,Child Education,2173486,22,Sukanya Samriddhi,Success
+48,72992,446850,Low,Tax Saving,3168005,23,ULIP,Partial
+28,52618,271968,Low,Tax Saving,4258539,4,ELSS Mutual Fund,Partial
+60,81763,157457,Low,Child Education,8886873,1,Balanced Mutual Fund,Success
+48,39950,390686,Low,Child Education,2592829,20,PPF,Success
+54,52388,123878,Medium,Retirement,9518597,25,NPS,Success
+38,59084,267670,Low,Buy a House,3269498,14,Debt Mutual Fund,Failed
+49,55764,433468,High,Tax Saving,8804888,16,PPF,Success
+34,105093,478690,Low,Emergency Fund,9635921,20,Liquid Mutual Fund,Partial
+47,102418,281597,Low,Car Purchase,8526432,12,RD,Success
+56,79586,239184,High,Child Education,1221367,16,PPF,Partial
+33,44399,437777,Low,Emergency Fund,3994475,13,RD,Failed
+46,77318,258165,Medium,Travel Abroad,3338885,10,Debt Mutual Fund,Failed
+34,124137,43548,Medium,Travel Abroad,3037873,10,Savings Account,Failed
+56,32408,211664,Low,Emergency Fund,9258440,14,Liquid Mutual Fund,Success
+51,83417,290631,High,Emergency Fund,6761879,15,Liquid Mutual Fund,Failed
+53,105008,28624,Medium,Retirement,4227860,17,NPS,Success
+47,25789,156467,Medium,Car Purchase,6290185,16,FD,Partial
+23,130374,44604,Low,Buy a House,5350548,13,FD,Success
+38,119460,184991,Low,Travel Abroad,3661162,6,Debt Mutual Fund,Success
+26,106172,20818,Low,Car Purchase,1495798,4,Debt Mutual Fund,Success
+45,118320,459718,Low,Child Education,120813,10,Balanced Mutual Fund,Partial
+60,121625,237017,Medium,Emergency Fund,2163022,22,RD,Partial
+35,55437,133960,Medium,Car Purchase,8820906,25,Debt Mutual Fund,Success
+40,120814,306147,Medium,Car Purchase,7867602,10,FD,Failed
+26,93607,46334,Medium,Retirement,7356491,11,Equity Mutual Fund,Partial
+32,63067,133069,Medium,Travel Abroad,3505349,12,Gold ETF,Success
+38,135429,63195,Medium,Buy a House,7135925,3,Debt Mutual Fund,Success
+55,133493,213941,Medium,Buy a House,8860099,1,FD,Success
+24,37828,448819,High,Car Purchase,5609468,13,RD,Partial
+55,74514,358181,High,Retirement,3797042,20,NPS,Success
+49,96342,296229,Low,Emergency Fund,7938295,14,Liquid Mutual Fund,Success
+25,26621,278436,High,Buy a House,6810337,24,FD,Partial
+28,78979,186783,Medium,Buy a House,7489694,15,PPF,Success
+43,80068,140495,Medium,Retirement,923164,1,Equity Mutual Fund,Partial
+22,94921,325865,Medium,Tax Saving,1643294,14,ULIP,Success
+55,126882,431679,High,Retirement,8023606,9,NPS,Failed
+48,121374,206637,Low,Car Purchase,8750818,19,FD,Success
+35,143329,454137,Medium,Retirement,3566361,14,PPF,Success
+47,64184,82091,High,Buy a House,8854139,24,FD,Success
+25,52537,230289,Medium,Tax Saving,4415268,11,ULIP,Success
+36,69143,496603,Low,Tax Saving,796980,25,ELSS Mutual Fund,Success
+49,101728,414373,Medium,Emergency Fund,3807754,1,Savings Account,Success
+23,31829,152233,Medium,Emergency Fund,3486404,2,RD,Success
+29,32431,107797,Low,Car Purchase,9070314,3,Debt Mutual Fund,Success
+47,121584,365448,Medium,Retirement,1030884,1,NPS,Partial
+59,55167,406493,Medium,Child Education,1843676,15,Balanced Mutual Fund,Success
+49,136898,290417,Medium,Tax Saving,5428230,21,ULIP,Success
+24,72223,486173,Medium,Tax Saving,5990511,3,PPF,Success
+39,84022,202418,Low,Emergency Fund,693453,6,Liquid Mutual Fund,Success
+45,136293,437560,Medium,Buy a House,3937660,9,PPF,Partial
+28,142858,497616,Medium,Car Purchase,772261,15,Debt Mutual Fund,Partial
+40,116256,345408,Medium,Emergency Fund,8952102,4,Savings Account,Success
+25,147662,29264,Low,Buy a House,4290413,4,Debt Mutual Fund,Partial
+26,44908,437543,Medium,Emergency Fund,8878638,11,Liquid Mutual Fund,Success
+26,51811,279419,High,Travel Abroad,4898848,2,Gold ETF,Success
+33,87249,161724,Low,Tax Saving,4321729,23,PPF,Success
+47,33217,319090,Medium,Tax Saving,3558439,9,ELSS Mutual Fund,Success
+26,39842,140565,Low,Tax Saving,3777562,17,ELSS Mutual Fund,Partial
+53,52856,308520,Medium,Buy a House,7765333,2,PPF,Success
+39,52977,265215,Medium,Tax Saving,8547072,3,ELSS Mutual Fund,Success
+48,29121,62434,High,Buy a House,7974770,23,PPF,Partial
+44,108429,478144,Medium,Emergency Fund,8786800,24,RD,Success
+34,103475,413391,Low,Buy a House,4444517,22,PPF,Partial
+45,86994,24665,High,Travel Abroad,3542233,23,Debt Mutual Fund,Success
+52,79781,149033,High,Car Purchase,5665434,14,FD,Success
+23,40908,23744,Medium,Child Education,7689916,17,PPF,Partial
+28,38056,61949,Medium,Child Education,9708152,5,Sukanya Samriddhi,Success
+55,77139,77900,Medium,Travel Abroad,8992746,16,Debt Mutual Fund,Partial
+54,68501,109101,Low,Travel Abroad,6203703,11,Savings Account,Partial
+38,110666,445826,Medium,Travel Abroad,9672646,21,Debt Mutual Fund,Partial
+27,144052,368598,Medium,Travel Abroad,6805455,18,Gold ETF,Success
+55,92889,38319,Medium,Emergency Fund,2794635,4,Savings Account,Success
+44,88079,397257,Low,Travel Abroad,2252058,11,Gold ETF,Failed
+43,48066,194046,Medium,Buy a House,3764423,3,FD,Failed
+34,142014,414518,Low,Emergency Fund,618956,9,Savings Account,Success
+38,79463,304626,Medium,Buy a House,6957398,21,PPF,Partial
+36,78962,138109,Low,Car Purchase,9924176,14,Debt Mutual Fund,Success
+42,41669,95730,Low,Retirement,3657271,16,PPF,Success
+27,122673,395524,High,Child Education,3242245,15,PPF,Success
+35,45342,130425,Medium,Tax Saving,9364048,5,ULIP,Partial
+44,77443,132183,High,Buy a House,4872937,10,PPF,Success
+28,67340,276213,Low,Car Purchase,4452130,4,Debt Mutual Fund,Success
+48,99222,323011,Low,Travel Abroad,9183463,1,Debt Mutual Fund,Partial
+35,47823,352883,Low,Child Education,9840118,23,Balanced Mutual Fund,Success
+58,111145,306976,Medium,Retirement,8996801,5,PPF,Success
+46,32115,471815,Low,Tax Saving,8697181,25,PPF,Failed
+29,112099,382582,Medium,Car Purchase,7083846,20,Debt Mutual Fund,Partial
+59,35348,370692,Medium,Buy a House,5455133,7,PPF,Partial
+30,146492,117750,Low,Travel Abroad,4338056,9,Debt Mutual Fund,Partial
+29,108220,195907,Medium,Tax Saving,1273374,6,ELSS Mutual Fund,Success
+23,85677,353396,Low,Emergency Fund,2436345,2,Savings Account,Partial
+36,54304,61427,Medium,Emergency Fund,6696148,2,Liquid Mutual Fund,Success
+50,140877,493007,Low,Car Purchase,8453021,20,Debt Mutual Fund,Partial
+30,51753,452604,Medium,Child Education,7598648,3,PPF,Success
+41,35543,170514,Low,Child Education,345828,18,Sukanya Samriddhi,Failed
+43,146541,188111,Medium,Emergency Fund,7109663,4,RD,Partial
+55,28575,380310,Medium,Child Education,678723,6,PPF,Partial
+59,33691,221028,High,Tax Saving,3178311,18,ELSS Mutual Fund,Partial
+53,114265,265461,Medium,Emergency Fund,6795072,10,Savings Account,Success
+43,63670,59922,Medium,Tax Saving,4961050,13,PPF,Success
+51,134536,394908,Low,Child Education,7105993,15,PPF,Success
+42,147737,223249,Medium,Retirement,8960494,15,Equity Mutual Fund,Success
+54,65936,216116,High,Emergency Fund,1526742,20,Liquid Mutual Fund,Success
+40,105360,225300,High,Tax Saving,4443229,23,ELSS Mutual Fund,Partial
+54,133171,190573,Low,Retirement,1396523,17,PPF,Success
+35,138252,180420,Medium,Emergency Fund,788172,22,Savings Account,Success
+38,131233,439307,High,Buy a House,9145896,5,PPF,Partial
+25,70651,437192,High,Emergency Fund,2583039,1,Liquid Mutual Fund,Success
+38,136589,74201,High,Buy a House,8063851,21,PPF,Failed
+45,120449,400784,Low,Tax Saving,2830220,2,ULIP,Success
+44,45082,15008,Low,Travel Abroad,4408856,1,Gold ETF,Partial
+60,55130,410681,Low,Child Education,9617517,12,PPF,Success
+54,56357,159338,Low,Retirement,2944513,16,PPF,Partial
+49,38262,261003,Medium,Emergency Fund,882909,15,RD,Partial
+53,118097,191233,Medium,Buy a House,2255767,14,PPF,Partial
+57,95184,72393,Low,Travel Abroad,505512,15,Gold ETF,Success
+35,25440,241305,Medium,Child Education,7562238,13,Balanced Mutual Fund,Success
+41,93986,87581,Medium,Travel Abroad,6369761,24,Debt Mutual Fund,Failed
+41,37924,62636,Low,Buy a House,4421026,9,Debt Mutual Fund,Partial
+26,90976,338925,Low,Retirement,7868615,15,NPS,Partial
+55,81154,475624,High,Emergency Fund,4919328,19,Liquid Mutual Fund,Success
+46,68982,217893,Medium,Buy a House,3414297,15,FD,Failed
+38,73473,278875,Medium,Retirement,4584650,13,PPF,Success
+29,132751,108176,Low,Travel Abroad,1748295,13,Debt Mutual Fund,Success
+60,65654,424255,Low,Tax Saving,1499369,10,ULIP,Partial
+60,93443,262206,Medium,Travel Abroad,3311190,10,Savings Account,Success
+48,58137,199252,Medium,Travel Abroad,6570873,10,Savings Account,Partial
+22,96363,326899,Medium,Tax Saving,2543717,8,ULIP,Success
+40,104283,368848,Low,Travel Abroad,5010300,13,Gold ETF,Success
+52,92608,156973,Medium,Emergency Fund,8541475,19,RD,Success
+35,91239,439529,High,Tax Saving,3151238,13,PPF,Success
+57,62178,466169,Medium,Child Education,6741709,5,PPF,Success
+29,108427,265159,Low,Tax Saving,9941870,16,ELSS Mutual Fund,Partial
+51,47169,491565,Low,Tax Saving,5292221,24,ULIP,Success
+38,123835,428033,Medium,Buy a House,6031964,3,Debt Mutual Fund,Success
+38,144064,179448,Low,Car Purchase,7063573,13,Debt Mutual Fund,Success
+28,130197,26890,Medium,Tax Saving,9040684,18,PPF,Success
+28,53277,300527,Medium,Emergency Fund,2189979,11,Savings Account,Partial
+25,75928,32962,High,Travel Abroad,5846826,21,Savings Account,Success
+31,144644,395999,Medium,Child Education,2836389,15,PPF,Success
+49,57723,214391,Low,Tax Saving,1384643,10,PPF,Failed
+51,112903,175622,Medium,Tax Saving,6067000,1,ULIP,Success
+31,52130,377816,Low,Car Purchase,9841895,5,Debt Mutual Fund,Success
+57,98355,243743,Medium,Travel Abroad,493517,1,Debt Mutual Fund,Success
+42,35011,336472,Low,Retirement,5249109,3,NPS,Partial
+39,80072,442737,High,Emergency Fund,8327474,20,Liquid Mutual Fund,Success
+54,109228,300902,Low,Car Purchase,8747551,2,Debt Mutual Fund,Success
+23,58948,106336,Medium,Buy a House,5099780,5,FD,Partial
+25,81146,18649,Medium,Travel Abroad,5197691,2,Savings Account,Success
+53,37579,213454,Medium,Travel Abroad,6947288,5,Debt Mutual Fund,Success
+25,125907,91949,Medium,Tax Saving,4416462,10,ELSS Mutual Fund,Partial
+49,148086,348250,Medium,Retirement,9963928,23,NPS,Success
+43,79038,347568,Low,Emergency Fund,5814734,18,RD,Success
+58,142985,41223,Medium,Child Education,9554364,10,PPF,Failed
+33,64119,410974,High,Emergency Fund,5271835,3,Savings Account,Failed
+38,133241,458128,Medium,Travel Abroad,710343,17,Gold ETF,Partial
+27,77165,114183,High,Tax Saving,8349480,20,ULIP,Success
+38,140141,54590,High,Child Education,7635925,23,Balanced Mutual Fund,Partial
+41,136627,191160,Medium,Car Purchase,4798782,5,RD,Success
+40,125334,102151,Medium,Car Purchase,3918872,4,Debt Mutual Fund,Success
+24,60500,220026,Low,Car Purchase,6226574,1,RD,Partial
+39,127643,215269,Medium,Retirement,1437289,23,Equity Mutual Fund,Partial
+56,102271,167291,Medium,Emergency Fund,513825,6,Liquid Mutual Fund,Success
+42,130747,113332,Low,Travel Abroad,6317057,19,Gold ETF,Partial
+33,84583,94851,Medium,Buy a House,2907090,23,Debt Mutual Fund,Success
+46,46087,108853,Medium,Child Education,2183899,1,PPF,Success
+24,84344,107916,Low,Car Purchase,6814838,8,FD,Success
+38,148657,225484,Medium,Emergency Fund,6523896,17,Liquid Mutual Fund,Partial
+45,145033,138190,High,Travel Abroad,3327131,22,Savings Account,Success
+25,41674,469750,High,Car Purchase,309805,22,Debt Mutual Fund,Partial
+41,106282,137428,Low,Tax Saving,9619374,8,ULIP,Success
+28,101423,79623,Low,Tax Saving,7405774,9,ULIP,Success
+41,147907,254090,High,Emergency Fund,5735942,6,RD,Success
+22,122992,69326,High,Retirement,7612819,18,NPS,Success
+53,37269,320488,Low,Emergency Fund,1788222,1,Savings Account,Partial
+37,58043,285553,High,Retirement,8999367,1,PPF,Failed
+26,31248,224628,Low,Travel Abroad,5527055,24,Savings Account,Success
+31,92118,19388,Medium,Buy a House,6635479,1,Debt Mutual Fund,Success
+54,72282,65619,Medium,Car Purchase,4301390,11,RD,Success
+53,100992,204935,Medium,Car Purchase,9206556,12,Debt Mutual Fund,Partial
+43,77055,346556,Medium,Tax Saving,9062432,25,PPF,Success
+54,88825,357584,Medium,Tax Saving,5217015,7,PPF,Success
+44,103379,120880,Low,Child Education,4192254,10,PPF,Success
+47,106606,395973,Medium,Retirement,5166506,13,Equity Mutual Fund,Success
+26,95912,68495,High,Child Education,2496471,5,Balanced Mutual Fund,Success
+24,135047,406395,High,Retirement,8143488,21,NPS,Success
+53,52671,484616,Low,Tax Saving,2735716,18,ELSS Mutual Fund,Partial
+40,51620,484365,High,Retirement,292044,11,Equity Mutual Fund,Success
+54,25801,160375,Medium,Retirement,688314,15,PPF,Failed
+40,139032,11686,Medium,Car Purchase,8008162,16,FD,Success
+59,45324,341638,Low,Tax Saving,8154460,23,ELSS Mutual Fund,Success
+26,129013,359281,Low,Tax Saving,7822971,7,ULIP,Success
+54,32622,23032,Medium,Retirement,4461271,10,NPS,Success
+22,104595,290952,Medium,Car Purchase,1807384,13,FD,Success
+54,66944,434493,Low,Emergency Fund,8412006,25,Liquid Mutual Fund,Success
+30,91939,20181,Low,Retirement,4528469,11,Equity Mutual Fund,Success
+55,104131,165413,Medium,Travel Abroad,2404885,14,Debt Mutual Fund,Failed
+58,28760,48467,Medium,Buy a House,466008,15,FD,Partial
+35,142062,391736,Medium,Tax Saving,9152423,13,ELSS Mutual Fund,Success
+27,104144,207728,Medium,Travel Abroad,7182819,4,Gold ETF,Partial
+58,29639,69810,Medium,Retirement,5790494,14,Equity Mutual Fund,Failed
+47,108003,151657,Low,Emergency Fund,1047813,17,Liquid Mutual Fund,Success
+59,114020,353977,High,Tax Saving,8063001,17,PPF,Partial
+24,52519,21388,High,Travel Abroad,3321847,8,Savings Account,Success
+24,92492,51322,Low,Car Purchase,3404373,15,FD,Partial
+39,36677,113305,Medium,Car Purchase,3370171,14,Debt Mutual Fund,Partial
+56,112706,71996,High,Retirement,3795014,14,PPF,Success
+32,146484,373464,Low,Travel Abroad,9283996,19,Debt Mutual Fund,Success
+30,126634,188072,Medium,Buy a House,3441722,4,FD,Success
+54,72594,249059,Low,Tax Saving,6726986,24,PPF,Success
+36,123106,459158,Medium,Child Education,8331718,8,Balanced Mutual Fund,Success
+36,46065,405308,Low,Car Purchase,3084674,5,Debt Mutual Fund,Success
+28,102356,378615,Low,Emergency Fund,4974193,24,RD,Success
+34,128829,198932,Low,Child Education,3894090,10,Balanced Mutual Fund,Success
+34,134818,316062,Medium,Retirement,525191,16,PPF,Partial
+42,149976,388554,Medium,Retirement,1356352,1,Equity Mutual Fund,Success
+29,86462,270478,Low,Tax Saving,7785119,1,ULIP,Success
+27,140919,198280,Low,Retirement,558717,20,PPF,Partial
+32,147223,186852,High,Child Education,4309510,20,Sukanya Samriddhi,Partial
+44,36937,407399,Medium,Car Purchase,2082129,20,FD,Success
+47,124486,269180,Medium,Child Education,9061451,2,Balanced Mutual Fund,Partial
+49,33856,165349,Medium,Buy a House,4638372,25,FD,Success
+50,38429,56994,Low,Tax Saving,1097518,15,ULIP,Partial
+32,46477,232244,Medium,Car Purchase,4316501,11,RD,Partial
+34,70325,34912,Medium,Tax Saving,8382630,19,ELSS Mutual Fund,Success
+39,90531,401044,High,Travel Abroad,3760096,25,Gold ETF,Success
+45,74073,194573,Medium,Emergency Fund,7298518,5,Savings Account,Partial
+54,106350,31926,High,Child Education,5237089,18,PPF,Success
+31,73300,271539,High,Emergency Fund,1652114,12,RD,Success
+50,40327,333646,Low,Car Purchase,1425732,21,Debt Mutual Fund,Success
+54,124964,333950,Low,Car Purchase,3380301,16,Debt Mutual Fund,Partial
+48,120912,236557,Medium,Tax Saving,8579398,5,PPF,Partial
+35,82359,146498,Medium,Tax Saving,5498210,25,PPF,Success
+49,120765,270804,Low,Emergency Fund,9226360,19,Liquid Mutual Fund,Success
+50,26776,302433,Medium,Travel Abroad,6561543,18,Gold ETF,Partial
+28,88421,416563,Medium,Emergency Fund,1228384,21,RD,Partial
+48,115928,284929,Medium,Child Education,1529328,1,Balanced Mutual Fund,Partial
+42,35028,366691,Medium,Child Education,1179014,10,Sukanya Samriddhi,Success
+59,110723,65562,Low,Buy a House,6747754,3,FD,Success
+53,127804,46111,Medium,Emergency Fund,9762761,19,Liquid Mutual Fund,Partial
+44,102297,303877,Medium,Tax Saving,5159947,5,ELSS Mutual Fund,Success
+53,63397,110885,Medium,Travel Abroad,6892101,5,Savings Account,Partial
+39,83126,440191,Medium,Child Education,8637297,14,PPF,Success
+28,39974,91327,High,Child Education,939323,20,PPF,Success
+30,67832,142389,High,Retirement,5333996,18,Equity Mutual Fund,Success
+37,83478,344992,Medium,Travel Abroad,6319454,12,Savings Account,Partial
+22,110900,77431,High,Child Education,233278,8,Balanced Mutual Fund,Success
+28,45514,141378,Low,Child Education,7354236,17,PPF,Success
+24,130066,191824,Medium,Child Education,7251017,1,PPF,Success
+55,123429,377582,High,Emergency Fund,1610377,12,Liquid Mutual Fund,Partial
+49,29564,25175,Medium,Tax Saving,8676253,22,ELSS Mutual Fund,Success
+44,27799,219737,Medium,Emergency Fund,492245,23,Liquid Mutual Fund,Success
+56,108757,435477,Medium,Tax Saving,4382955,19,ELSS Mutual Fund,Partial
+35,111324,37111,Low,Retirement,5844997,10,NPS,Success
+57,102901,48593,High,Travel Abroad,8260229,6,Gold ETF,Partial
+53,35756,365884,Medium,Retirement,3916163,25,Equity Mutual Fund,Partial
+55,140772,461767,High,Emergency Fund,6305200,8,Liquid Mutual Fund,Partial
+52,130421,147733,High,Travel Abroad,6843841,14,Savings Account,Partial
+31,99450,342397,Low,Tax Saving,9973109,6,ULIP,Success
+58,135989,423168,Medium,Child Education,9557030,25,Balanced Mutual Fund,Success
+27,95874,424036,High,Tax Saving,3970831,23,ELSS Mutual Fund,Success
+51,121529,293052,Low,Buy a House,5821970,10,FD,Failed
+40,112321,143539,Medium,Travel Abroad,5039741,6,Savings Account,Failed
+53,70434,459318,Medium,Buy a House,6282240,22,Debt Mutual Fund,Partial
+36,74502,113918,Medium,Travel Abroad,7374903,23,Debt Mutual Fund,Success
+22,99818,45509,Medium,Tax Saving,4338660,19,ELSS Mutual Fund,Success
+26,100918,310914,Medium,Emergency Fund,7881748,12,Liquid Mutual Fund,Success
+29,52213,328945,Low,Tax Saving,9790540,7,ULIP,Success
+50,76401,208461,Medium,Buy a House,8481805,17,FD,Success
+37,115757,78883,High,Emergency Fund,9771191,18,Savings Account,Success
+43,100216,177175,Medium,Emergency Fund,2234219,24,Liquid Mutual Fund,Partial
+53,127457,300311,Low,Retirement,916741,19,Equity Mutual Fund,Success
+52,60174,276537,Low,Buy a House,5368094,13,Debt Mutual Fund,Success
+30,127024,297879,Medium,Retirement,434078,22,PPF,Success
+53,36248,414942,High,Tax Saving,1522020,21,PPF,Success
+34,88819,489501,Medium,Travel Abroad,152717,11,Gold ETF,Success
+24,38854,316329,Low,Car Purchase,1573698,10,Debt Mutual Fund,Success
+33,25806,473255,Medium,Car Purchase,4449094,1,Debt Mutual Fund,Success
+58,45191,311118,Low,Travel Abroad,5200130,21,Gold ETF,Failed
+60,136393,40123,Medium,Emergency Fund,2625190,5,RD,Success
+51,147267,220821,High,Tax Saving,9530756,2,ULIP,Success
+31,83729,85171,Medium,Travel Abroad,4922206,23,Savings Account,Success
+60,28830,450486,Low,Emergency Fund,6337587,19,Savings Account,Success
+31,109512,19091,Medium,Retirement,1080604,11,NPS,Success
+37,143607,390157,Medium,Retirement,510361,1,NPS,Success
+22,31318,356158,Low,Retirement,2052339,7,Equity Mutual Fund,Partial
+28,121861,269743,Medium,Child Education,288805,17,Balanced Mutual Fund,Success
+30,55274,101533,High,Child Education,2132242,6,PPF,Success
+30,94455,256803,Low,Emergency Fund,1721116,1,Liquid Mutual Fund,Success
+43,147494,401793,Medium,Emergency Fund,3442739,3,RD,Success
+23,134560,450188,Medium,Emergency Fund,2931090,12,Liquid Mutual Fund,Success
+60,77281,408387,High,Buy a House,7849941,3,Debt Mutual Fund,Success
+52,48535,279784,Low,Retirement,3542091,24,PPF,Partial
+43,108185,272276,Medium,Travel Abroad,8883864,21,Gold ETF,Partial
+40,149498,99050,Medium,Travel Abroad,4431069,23,Gold ETF,Partial
+45,123242,400985,Low,Tax Saving,2683062,24,ELSS Mutual Fund,Partial
+38,34394,499118,Medium,Emergency Fund,9454067,22,Liquid Mutual Fund,Success
+52,65968,32919,Medium,Tax Saving,9423206,13,ULIP,Success
+51,61512,433653,Low,Buy a House,2399349,6,FD,Failed
+53,89366,289849,High,Emergency Fund,2873875,14,Liquid Mutual Fund,Partial
+44,123794,115621,Low,Buy a House,3206395,20,Debt Mutual Fund,Partial
+35,48607,449600,Low,Tax Saving,915225,2,PPF,Success
+32,118112,10519,Medium,Car Purchase,8787272,24,RD,Success
+25,145694,251139,Medium,Travel Abroad,1157014,12,Debt Mutual Fund,Success
+30,111992,456052,Low,Emergency Fund,4341097,3,Savings Account,Success
+28,123431,26394,Low,Child Education,5290391,9,PPF,Partial
+29,54217,343171,Low,Tax Saving,6195502,2,PPF,Success
+42,104475,410179,Medium,Tax Saving,920161,8,PPF,Success
+35,29678,462138,Medium,Retirement,2303636,24,Equity Mutual Fund,Success
+29,96186,137843,Medium,Travel Abroad,104800,2,Debt Mutual Fund,Success
+26,116082,94427,Medium,Child Education,9730172,4,Sukanya Samriddhi,Success
+59,60865,278573,Medium,Child Education,1807780,15,Sukanya Samriddhi,Success
+54,58266,445074,Medium,Buy a House,358566,14,PPF,Partial
+53,110853,386398,Medium,Tax Saving,6558114,19,ULIP,Partial
+43,91807,472333,Low,Travel Abroad,4137777,4,Debt Mutual Fund,Success
+43,94027,162944,Medium,Buy a House,8766801,1,PPF,Success
+46,148290,158075,Low,Tax Saving,4069513,13,ELSS Mutual Fund,Success
+47,126201,147487,Medium,Tax Saving,1262973,21,PPF,Success
+59,71108,38353,Medium,Child Education,677780,8,Sukanya Samriddhi,Success
+48,57362,306407,Low,Buy a House,1224729,2,PPF,Success
+28,78522,150864,Medium,Car Purchase,2023871,24,FD,Success
+40,108876,32457,Medium,Child Education,3912899,19,Sukanya Samriddhi,Partial
+58,105920,258917,Low,Travel Abroad,4210096,10,Debt Mutual Fund,Failed
+32,76583,71730,Medium,Buy a House,4131946,19,PPF,Partial
+49,48342,407715,Medium,Buy a House,2453423,11,FD,Success
+59,65631,28977,Low,Car Purchase,6980830,2,Debt Mutual Fund,Success
+42,141678,472450,Medium,Retirement,1895856,14,Equity Mutual Fund,Success
+50,71136,63036,High,Child Education,7543331,13,Sukanya Samriddhi,Success
+49,38571,222467,High,Car Purchase,1844051,17,FD,Success
+60,62401,228687,Medium,Emergency Fund,8271192,20,RD,Success
+57,142052,370276,Medium,Child Education,742661,4,PPF,Failed
+50,49967,405158,Low,Emergency Fund,9736842,16,Savings Account,Partial
+48,133212,180153,Medium,Car Purchase,2870155,21,FD,Success
+48,38600,262858,Low,Child Education,5166935,1,Balanced Mutual Fund,Partial
+22,121236,209019,Low,Emergency Fund,4273128,20,Liquid Mutual Fund,Success
+40,73567,56084,High,Buy a House,1819180,22,FD,Success
+51,113349,17256,High,Car Purchase,9721211,22,FD,Partial
+40,136103,315046,High,Tax Saving,2459555,22,ULIP,Success
+33,79780,273530,Low,Tax Saving,3046670,21,ULIP,Partial
+23,120163,343572,Low,Travel Abroad,1035984,1,Gold ETF,Partial
+48,82952,279179,Medium,Tax Saving,5560951,13,PPF,Success
+42,67406,36882,Medium,Retirement,6319856,12,PPF,Success
+28,66684,413028,Low,Tax Saving,7520579,23,ULIP,Partial
+46,45108,36159,Medium,Travel Abroad,554886,4,Gold ETF,Success
+37,84572,96333,Low,Tax Saving,7595557,20,ELSS Mutual Fund,Success
+30,93733,467465,Low,Emergency Fund,7924380,4,Savings Account,Failed
+51,131168,41784,Medium,Emergency Fund,9179439,13,RD,Success
+34,38103,130889,Medium,Travel Abroad,8574609,9,Savings Account,Success
+36,91195,246470,Medium,Child Education,6148157,6,Sukanya Samriddhi,Success
+36,96811,371306,High,Car Purchase,3771655,13,Debt Mutual Fund,Success
+35,112367,399911,Low,Travel Abroad,7652382,14,Gold ETF,Partial
+33,60936,245306,Medium,Retirement,5175635,4,NPS,Partial
+25,113819,138440,Medium,Travel Abroad,5995196,15,Savings Account,Success
+45,113358,494124,Low,Emergency Fund,4797735,7,RD,Success
+43,144637,473637,Medium,Car Purchase,3511905,23,Debt Mutual Fund,Success
+29,116650,180644,High,Retirement,1774856,13,NPS,Success
+35,124928,302994,Medium,Tax Saving,7166734,16,ULIP,Success
+50,32718,444552,High,Emergency Fund,3584843,23,Liquid Mutual Fund,Failed
+34,55873,303529,Medium,Tax Saving,878953,23,ULIP,Success
+27,137548,316325,Medium,Retirement,6944176,14,NPS,Success
+35,93529,117728,Medium,Emergency Fund,9644542,8,RD,Success
+52,54121,89916,Medium,Buy a House,406500,24,FD,Partial
+29,88221,75674,Medium,Child Education,9103530,7,PPF,Success
+40,132041,336663,Low,Child Education,4019795,6,Balanced Mutual Fund,Success
+36,44848,386246,High,Travel Abroad,6884440,24,Gold ETF,Success
+26,60127,122703,Low,Retirement,4660148,23,Equity Mutual Fund,Failed
+59,65307,206699,High,Retirement,3233219,5,Equity Mutual Fund,Success
+55,27962,108824,Medium,Car Purchase,2676580,8,FD,Success
+31,140127,423003,Medium,Car Purchase,7820977,17,Debt Mutual Fund,Failed
+51,143492,474249,Medium,Retirement,7078997,23,NPS,Partial
+47,44815,427664,Low,Retirement,9080011,22,NPS,Success
+46,88908,154762,Low,Emergency Fund,8322273,7,Savings Account,Failed
+26,127384,41215,Low,Emergency Fund,6665842,24,RD,Failed
+50,112252,12867,High,Retirement,2328983,19,PPF,Success
+45,121945,62479,Low,Emergency Fund,3455801,25,Liquid Mutual Fund,Success
+41,130618,10579,Medium,Tax Saving,153405,7,ULIP,Partial
+37,130941,397081,Medium,Child Education,2681919,17,Balanced Mutual Fund,Success
+48,27026,169848,Medium,Tax Saving,6684632,22,ELSS Mutual Fund,Success
+26,127039,356136,Low,Retirement,2631560,23,PPF,Partial
+40,125042,454669,Medium,Car Purchase,6068961,5,Debt Mutual Fund,Partial
+36,75104,477935,Low,Emergency Fund,3172039,20,Liquid Mutual Fund,Partial
+52,107927,368956,Medium,Travel Abroad,8701642,3,Gold ETF,Partial
+52,73605,151273,Medium,Emergency Fund,3577595,15,Liquid Mutual Fund,Failed
+25,29095,351092,Low,Buy a House,4704465,3,FD,Success
+48,87863,363238,Medium,Emergency Fund,8309667,22,Savings Account,Partial
+28,82638,471807,High,Buy a House,3900635,11,PPF,Failed
+44,120561,208261,Low,Child Education,5947412,7,PPF,Success
+56,32711,444907,High,Car Purchase,4285353,25,RD,Failed
+37,145494,212245,Low,Retirement,180830,6,PPF,Partial
+52,103445,79886,Medium,Travel Abroad,1088354,16,Debt Mutual Fund,Partial
+59,41916,394595,Medium,Travel Abroad,4346542,23,Gold ETF,Success
+57,81676,22316,Medium,Car Purchase,9757380,13,RD,Partial
+48,52038,352340,Medium,Travel Abroad,356171,2,Gold ETF,Partial
+26,89909,133081,Medium,Travel Abroad,1581429,2,Debt Mutual Fund,Success
+49,82222,365919,High,Retirement,9268993,5,PPF,Success
+34,30352,239792,Low,Travel Abroad,6928326,22,Debt Mutual Fund,Success
+44,94399,497684,Medium,Child Education,4798760,4,Balanced Mutual Fund,Success
+25,65115,393759,Medium,Emergency Fund,8823794,3,Liquid Mutual Fund,Success
+41,105241,150205,Medium,Emergency Fund,2530811,15,Savings Account,Success
+49,74476,430239,Low,Buy a House,470940,7,PPF,Success
+39,108218,77417,High,Retirement,9232859,6,Equity Mutual Fund,Success
+42,69268,225725,Medium,Child Education,9290484,23,PPF,Partial
+37,131299,316201,Low,Tax Saving,5437946,9,ULIP,Success
+39,30993,342955,Low,Travel Abroad,263801,19,Gold ETF,Failed
+25,107920,417022,Medium,Car Purchase,5467491,3,RD,Partial
+56,127865,434757,Medium,Child Education,1191795,18,PPF,Success
+25,95230,323557,Medium,Buy a House,429447,14,FD,Success
+50,56828,85191,Medium,Buy a House,600396,18,PPF,Success
+47,84392,159096,Low,Travel Abroad,7872685,13,Gold ETF,Success
+60,52228,489332,Medium,Retirement,5320766,13,NPS,Success
+53,50351,335732,Low,Retirement,3917065,20,NPS,Success
+55,131608,32009,Medium,Buy a House,8259585,13,Debt Mutual Fund,Success
+33,63657,162313,Low,Child Education,949190,22,PPF,Success
+53,92707,22019,Medium,Travel Abroad,4047625,18,Gold ETF,Failed
+43,41247,422856,Medium,Child Education,7565681,17,Balanced Mutual Fund,Success
+24,27118,240960,Medium,Car Purchase,5899822,9,RD,Success
+39,82381,63972,Low,Travel Abroad,252001,9,Gold ETF,Partial
+46,40197,197201,Medium,Child Education,2844938,16,Sukanya Samriddhi,Partial
+56,98804,252077,Low,Tax Saving,7120555,7,PPF,Success
+49,52211,12661,Medium,Travel Abroad,6971079,22,Debt Mutual Fund,Partial
+45,53007,466773,Low,Car Purchase,6301919,25,RD,Partial
+23,82443,343369,Low,Emergency Fund,5876693,24,Savings Account,Success
+46,98920,411818,Low,Child Education,6916708,8,Sukanya Samriddhi,Partial
+38,44029,445386,Medium,Buy a House,5543862,19,Debt Mutual Fund,Success
+53,77180,486796,Medium,Retirement,1601815,5,Equity Mutual Fund,Success
+59,84412,72519,High,Emergency Fund,1076773,25,Liquid Mutual Fund,Success
+53,64866,496533,Medium,Travel Abroad,1365020,10,Debt Mutual Fund,Success
+41,128999,235698,Medium,Child Education,3891735,7,Balanced Mutual Fund,Success
+41,114863,320010,Medium,Child Education,9680498,4,Balanced Mutual Fund,Failed
+50,66111,137640,High,Travel Abroad,7264594,5,Gold ETF,Success
+53,66734,293860,Low,Buy a House,7088716,20,FD,Partial
+59,147525,379191,High,Retirement,1420078,21,Equity Mutual Fund,Success
+34,69516,251355,Medium,Car Purchase,271383,21,Debt Mutual Fund,Partial
+57,117028,434670,Medium,Travel Abroad,5827855,14,Gold ETF,Success
+49,29763,487254,Low,Buy a House,5738703,23,Debt Mutual Fund,Partial
+25,41173,42935,Medium,Buy a House,5467510,21,FD,Success
+55,80559,320496,High,Retirement,940972,23,NPS,Failed
+22,58831,401295,Medium,Buy a House,1327074,11,Debt Mutual Fund,Success
+50,148347,384991,High,Child Education,1984674,19,Sukanya Samriddhi,Success
+33,79563,417450,Low,Retirement,7566289,22,NPS,Partial
+32,102282,337454,Medium,Buy a House,5047126,7,Debt Mutual Fund,Partial
+27,113718,393217,Medium,Buy a House,9516379,24,PPF,Success
+38,32840,23513,Medium,Buy a House,805992,11,Debt Mutual Fund,Partial
+33,128152,345267,Medium,Tax Saving,1947268,11,ELSS Mutual Fund,Success
+57,26597,35130,Medium,Car Purchase,864427,20,Debt Mutual Fund,Success
+35,111414,91662,Low,Child Education,8022625,25,Sukanya Samriddhi,Partial
+48,112898,135900,High,Child Education,7522287,6,PPF,Partial
+55,48727,51407,Low,Car Purchase,887716,23,RD,Failed
+33,102294,52519,Low,Tax Saving,6508549,4,ULIP,Success
+60,136268,34295,Medium,Tax Saving,7997148,10,ELSS Mutual Fund,Failed
+23,53744,383204,Medium,Tax Saving,1412763,25,ULIP,Partial
+30,68034,189462,Medium,Buy a House,2683321,9,PPF,Failed
+48,122523,162863,Medium,Buy a House,2957498,5,PPF,Success
+47,141679,205685,Low,Buy a House,6888361,6,Debt Mutual Fund,Partial
+22,71581,465911,High,Child Education,8423506,23,PPF,Partial
+50,104422,297927,Medium,Car Purchase,5967565,15,Debt Mutual Fund,Success
+41,105595,452036,Medium,Buy a House,5177652,22,FD,Failed
+44,143138,350995,Low,Emergency Fund,5312136,4,Liquid Mutual Fund,Partial
+33,71780,317487,Medium,Emergency Fund,5700118,22,Savings Account,Success
+60,137584,318036,High,Travel Abroad,2712210,19,Savings Account,Partial
+23,44427,242514,Low,Travel Abroad,3209266,3,Debt Mutual Fund,Partial
+53,45538,22869,High,Travel Abroad,5039372,3,Savings Account,Success
+47,81761,11979,High,Travel Abroad,9771878,20,Debt Mutual Fund,Success
+60,37112,143539,Low,Car Purchase,7217890,17,RD,Success
+49,45378,277432,High,Buy a House,6119117,24,PPF,Success
+60,93808,318409,Low,Retirement,4141136,3,PPF,Partial
+41,60855,184691,Low,Tax Saving,2249651,18,PPF,Partial
+32,61089,384227,Low,Travel Abroad,3838108,12,Gold ETF,Success
+32,40976,429089,Medium,Buy a House,6065802,17,PPF,Success
+28,95361,236955,Low,Tax Saving,5558405,23,ELSS Mutual Fund,Partial
+50,68041,145908,Low,Tax Saving,7945535,25,ELSS Mutual Fund,Success
+38,145727,462407,Medium,Buy a House,6232205,3,Debt Mutual Fund,Partial
+23,56217,26385,Medium,Retirement,4398039,13,Equity Mutual Fund,Success
+22,131151,499712,Medium,Travel Abroad,7915716,21,Debt Mutual Fund,Partial
+54,43056,454505,Medium,Retirement,3300849,1,PPF,Success
+38,145902,178030,Medium,Car Purchase,8195449,12,RD,Partial
+44,47882,342918,Medium,Car Purchase,3515432,12,Debt Mutual Fund,Partial
+39,114169,36088,Low,Tax Saving,4472930,1,ULIP,Success
+23,95798,89076,Medium,Retirement,3923807,3,Equity Mutual Fund,Success
+48,95576,492700,Low,Child Education,7357437,6,Balanced Mutual Fund,Success
+33,36342,420019,Medium,Buy a House,6361505,16,PPF,Partial
+60,44341,239452,Low,Buy a House,3770645,23,Debt Mutual Fund,Partial
+54,88142,347168,Medium,Buy a House,7141967,11,PPF,Success
+50,125252,40991,High,Tax Saving,6409775,12,ELSS Mutual Fund,Success
+39,41600,209222,Low,Travel Abroad,9950597,16,Savings Account,Partial
+37,67282,234285,High,Emergency Fund,6742755,15,Liquid Mutual Fund,Partial
+38,144155,104220,Low,Retirement,1005196,24,NPS,Success
+42,115405,397767,Medium,Child Education,8018376,19,Sukanya Samriddhi,Success
+59,99386,238743,Medium,Child Education,7778172,15,Sukanya Samriddhi,Success
+24,82436,131880,Medium,Buy a House,1314590,17,Debt Mutual Fund,Success
+50,91160,42068,Medium,Retirement,4649471,20,NPS,Success
+59,148900,171456,High,Buy a House,6679800,20,PPF,Success
+48,141598,408743,Medium,Buy a House,9382574,19,FD,Failed
+27,133553,477492,Low,Child Education,6326952,18,Balanced Mutual Fund,Partial
+40,90943,289140,Low,Emergency Fund,9822026,21,Savings Account,Partial
+57,94212,166605,High,Retirement,8142784,1,NPS,Success
+28,48076,386601,Low,Buy a House,5854805,20,PPF,Success
+34,84096,323222,Medium,Tax Saving,6616665,14,ULIP,Success
+52,85961,195204,Low,Retirement,2994400,5,Equity Mutual Fund,Partial
+53,136710,203825,Low,Tax Saving,5386749,9,ULIP,Success
+40,126484,98776,High,Car Purchase,5215901,7,Debt Mutual Fund,Failed
+55,135705,136953,Low,Emergency Fund,8476476,5,RD,Success
+37,75819,488810,Low,Car Purchase,6441452,17,RD,Success
+22,117480,76875,High,Car Purchase,7886876,11,FD,Success
+31,141922,430974,High,Buy a House,5847060,9,FD,Success
+58,42382,257014,Low,Tax Saving,836952,6,ULIP,Success
+34,55587,361026,Medium,Travel Abroad,3352689,19,Gold ETF,Partial
+35,96220,235676,Medium,Emergency Fund,6255365,23,RD,Success
+45,50173,248837,Medium,Buy a House,6736318,14,PPF,Success
+41,61550,491701,High,Travel Abroad,8671735,11,Savings Account,Success
+35,141500,183870,High,Tax Saving,418953,17,PPF,Partial
+52,31007,192874,Low,Travel Abroad,5551111,21,Debt Mutual Fund,Partial
+23,67403,295522,Medium,Emergency Fund,3905868,25,RD,Partial
+29,55429,335762,High,Buy a House,2836804,11,FD,Success
+44,84543,117638,Low,Emergency Fund,1728421,24,Liquid Mutual Fund,Partial
+57,107769,144737,Low,Car Purchase,3476496,17,Debt Mutual Fund,Partial
+59,50564,28160,High,Child Education,5193967,9,Sukanya Samriddhi,Success
+47,69504,299474,Medium,Retirement,6478202,20,NPS,Partial
+58,33260,85458,Medium,Car Purchase,3494678,25,RD,Success
+43,40536,204540,Medium,Tax Saving,5326074,7,ULIP,Partial
+46,29928,142498,Medium,Tax Saving,7000077,20,ELSS Mutual Fund,Partial
+59,115471,76168,High,Tax Saving,2352119,9,ELSS Mutual Fund,Partial
+36,136888,489412,Medium,Child Education,7826947,13,PPF,Success
+52,80027,140753,Low,Buy a House,8937319,1,FD,Failed
+47,130099,235939,Medium,Emergency Fund,7857713,16,Liquid Mutual Fund,Success
+60,34521,458233,Medium,Car Purchase,4169533,4,RD,Success
+46,134902,93006,Low,Buy a House,4347653,24,FD,Failed
+34,144687,476559,Medium,Retirement,4612516,20,NPS,Partial
+46,38622,190891,Medium,Tax Saving,4670012,3,PPF,Success
+38,61830,294800,Medium,Emergency Fund,6083800,1,RD,Failed
+60,37470,279550,Low,Travel Abroad,4958304,17,Gold ETF,Partial
+28,32937,490034,Medium,Travel Abroad,3146777,19,Debt Mutual Fund,Partial
+31,81432,300287,Low,Car Purchase,9694465,1,Debt Mutual Fund,Partial
+35,33611,39175,High,Retirement,3516621,15,Equity Mutual Fund,Partial
+30,98678,286444,High,Car Purchase,9622148,18,RD,Partial
+34,115253,164619,Medium,Emergency Fund,7457793,7,RD,Partial
+60,146666,136967,Medium,Buy a House,1988425,23,PPF,Partial
+33,148074,462864,Low,Car Purchase,905720,5,Debt Mutual Fund,Partial
+24,67639,399994,Medium,Tax Saving,2306180,8,ELSS Mutual Fund,Success
+31,125019,388758,Medium,Travel Abroad,6756280,23,Debt Mutual Fund,Success
+37,27653,433473,Low,Car Purchase,6984444,10,FD,Success
+43,94216,461611,Low,Car Purchase,6593464,12,Debt Mutual Fund,Partial
+37,50702,342752,Medium,Buy a House,3897336,12,PPF,Partial
+43,77940,190429,Low,Tax Saving,8924874,18,ULIP,Partial
+39,83811,161501,Low,Car Purchase,9198230,15,RD,Success
+34,133256,192963,Medium,Tax Saving,4151256,15,ULIP,Success
+46,137000,457622,High,Car Purchase,7476156,15,FD,Failed
+33,86453,208880,Medium,Emergency Fund,4939832,23,Liquid Mutual Fund,Failed
+37,37338,19735,Medium,Car Purchase,3788294,8,Debt Mutual Fund,Success
+22,138898,27177,High,Travel Abroad,3282896,24,Savings Account,Success
+24,66826,218885,Medium,Retirement,7972670,2,Equity Mutual Fund,Partial
+42,42818,201471,Medium,Emergency Fund,9185432,1,Savings Account,Success
+43,119566,297960,High,Travel Abroad,148777,14,Savings Account,Success
+29,46012,290221,Low,Emergency Fund,7209763,17,Savings Account,Success
+47,98405,132570,Medium,Retirement,2482792,10,NPS,Success
+23,88871,222469,High,Retirement,4494734,14,NPS,Success
+34,77222,295113,Low,Tax Saving,5500560,20,ELSS Mutual Fund,Partial
+33,116842,132729,Medium,Retirement,2202698,12,PPF,Success
+58,26218,229380,Medium,Retirement,8062602,16,Equity Mutual Fund,Success
+39,55010,370935,Medium,Retirement,2472009,9,NPS,Success
+38,143115,127479,High,Child Education,2642949,22,Balanced Mutual Fund,Success
+57,74700,300654,Low,Emergency Fund,2091131,22,Liquid Mutual Fund,Success
+49,72552,437136,Medium,Buy a House,1642805,1,Debt Mutual Fund,Success
+46,78686,289701,Low,Travel Abroad,1185144,19,Debt Mutual Fund,Partial
+24,128399,21670,Low,Retirement,1750105,18,PPF,Success
+24,34312,301329,Medium,Buy a House,6458791,19,FD,Success
+43,56228,449595,Medium,Retirement,5555662,14,Equity Mutual Fund,Success
+33,121981,188679,Medium,Tax Saving,2181289,6,PPF,Success
+37,113153,260014,Medium,Emergency Fund,9210183,9,Savings Account,Success
+24,36958,238728,Medium,Child Education,2316502,16,PPF,Success
+59,113560,127017,Medium,Car Purchase,6252015,22,FD,Failed
+43,33654,50920,Medium,Travel Abroad,824081,1,Debt Mutual Fund,Success
+40,132183,269184,Low,Tax Saving,2296858,3,ULIP,Success
+45,41040,37291,Medium,Child Education,6721202,22,Balanced Mutual Fund,Partial
+32,133106,475046,Low,Tax Saving,4697289,11,ELSS Mutual Fund,Partial
+45,149102,10867,High,Travel Abroad,7889603,21,Savings Account,Success
+32,39754,100198,High,Car Purchase,8400644,8,Debt Mutual Fund,Success
+40,116833,309980,Medium,Emergency Fund,4230771,13,Savings Account,Success
+43,48405,302995,Medium,Child Education,7452500,13,Sukanya Samriddhi,Success
+46,114479,113982,High,Child Education,504041,1,PPF,Partial
+28,127720,349306,High,Child Education,1186321,7,Balanced Mutual Fund,Success
+38,46396,336789,Medium,Buy a House,8910022,18,Debt Mutual Fund,Partial
+28,56889,484631,High,Emergency Fund,9579003,16,RD,Success
+52,66269,316280,Medium,Car Purchase,4124951,15,FD,Partial
+43,141756,184721,Low,Buy a House,9398197,16,PPF,Success
+48,45325,483080,Low,Car Purchase,2993933,18,FD,Success
+53,42427,44493,Medium,Emergency Fund,4959282,13,RD,Partial
+28,26123,440351,Low,Retirement,8224319,2,PPF,Success
+56,57341,463591,High,Emergency Fund,3419468,18,Savings Account,Partial
+52,138197,105839,Medium,Car Purchase,5197259,21,Debt Mutual Fund,Success
+25,73243,446293,Low,Tax Saving,3329658,8,ULIP,Partial
+52,52417,38739,Medium,Tax Saving,9647517,1,ELSS Mutual Fund,Success
+30,106030,149446,Medium,Emergency Fund,7856718,12,RD,Success
+33,121794,322755,Medium,Buy a House,2383375,2,FD,Success
+51,113558,273540,Medium,Travel Abroad,1001587,25,Debt Mutual Fund,Partial
+57,85277,438773,Medium,Buy a House,9041929,6,PPF,Failed
+49,137319,216601,Medium,Travel Abroad,2444478,25,Savings Account,Partial
+31,79746,20824,Medium,Car Purchase,9008808,25,FD,Partial
+52,74734,469778,Medium,Car Purchase,6261922,5,Debt Mutual Fund,Partial
+29,111020,172231,Low,Car Purchase,1125193,4,Debt Mutual Fund,Success
+50,114664,96775,Medium,Tax Saving,271321,14,ELSS Mutual Fund,Success
+45,148452,269727,High,Car Purchase,4135568,1,RD,Partial
+50,57390,366885,Low,Travel Abroad,1412344,18,Debt Mutual Fund,Success
+42,36607,215562,Low,Retirement,8664701,12,NPS,Success
+22,137511,491160,Medium,Emergency Fund,9845313,7,Liquid Mutual Fund,Partial
+40,40240,406521,Low,Emergency Fund,4627609,9,Savings Account,Success
+32,141600,236503,Medium,Travel Abroad,9474262,22,Gold ETF,Failed
+46,128401,37489,High,Child Education,9598123,16,PPF,Success
+39,96694,452383,High,Buy a House,656974,17,FD,Success
+56,51838,232046,Medium,Travel Abroad,5890275,12,Savings Account,Success
+23,89235,237816,High,Emergency Fund,2640391,6,Liquid Mutual Fund,Success
+34,132751,495013,Low,Tax Saving,9653034,5,ELSS Mutual Fund,Success
+48,67099,125672,Medium,Buy a House,5953958,2,Debt Mutual Fund,Partial
+44,58877,337406,Medium,Travel Abroad,9961114,20,Gold ETF,Partial
+42,64787,268224,High,Child Education,8530837,6,Balanced Mutual Fund,Success
+23,39265,309696,High,Tax Saving,9060943,4,ELSS Mutual Fund,Success
+33,26361,122246,Low,Travel Abroad,9279245,10,Debt Mutual Fund,Partial
+29,144955,214979,Low,Retirement,3166698,22,NPS,Failed
+51,97566,283201,Medium,Emergency Fund,4401641,21,Savings Account,Success
+47,103221,201910,Medium,Retirement,661344,19,PPF,Success
+33,42233,486865,Medium,Car Purchase,9458034,7,FD,Failed
+26,106804,39094,Medium,Travel Abroad,2682435,24,Gold ETF,Partial
+36,98928,235397,Low,Travel Abroad,7943797,11,Savings Account,Partial
+42,25372,183603,Medium,Buy a House,8535555,8,FD,Success
+40,64730,471588,Low,Retirement,501852,5,Equity Mutual Fund,Partial
+56,58421,74699,High,Tax Saving,9608897,8,ELSS Mutual Fund,Success
+46,47549,447881,High,Tax Saving,6898922,3,PPF,Success
+48,88838,14719,High,Tax Saving,3445197,21,PPF,Partial
+25,139617,10650,High,Child Education,9108534,19,Balanced Mutual Fund,Success
+28,47010,56703,Medium,Tax Saving,8860965,6,ELSS Mutual Fund,Success
+58,26903,239433,Low,Emergency Fund,841689,3,Liquid Mutual Fund,Failed
+54,28271,250509,High,Tax Saving,1223017,22,ULIP,Success
+48,103690,483460,Medium,Child Education,313499,15,PPF,Success
+49,121650,191075,Low,Emergency Fund,8211721,14,Liquid Mutual Fund,Success
+53,58951,369608,Low,Buy a House,6475824,22,Debt Mutual Fund,Success
+57,26270,69489,Medium,Buy a House,8635174,4,FD,Success
+50,110751,135470,Medium,Buy a House,5142212,17,Debt Mutual Fund,Success
+39,116054,12739,Medium,Emergency Fund,1583263,24,Savings Account,Success
+32,96254,260434,High,Travel Abroad,9231136,22,Gold ETF,Success
+51,43520,342373,Low,Car Purchase,289743,20,Debt Mutual Fund,Partial
+25,57577,347695,High,Retirement,2549621,9,NPS,Success
+35,30645,61741,Low,Tax Saving,3725108,11,ELSS Mutual Fund,Success
+32,135019,57324,Low,Car Purchase,546418,18,FD,Success
+57,125105,141862,Low,Travel Abroad,1711465,21,Gold ETF,Success
+52,115284,290917,Medium,Child Education,7338022,5,Sukanya Samriddhi,Success
+33,110485,45862,Low,Emergency Fund,3823402,24,RD,Success
+49,60012,257136,Low,Car Purchase,3166385,13,Debt Mutual Fund,Failed
+38,37598,313061,Medium,Child Education,8503857,23,Sukanya Samriddhi,Success
+41,102063,265207,High,Child Education,4647527,1,PPF,Partial
+33,118969,126330,Medium,Retirement,541842,4,NPS,Success
+53,36262,318810,High,Emergency Fund,1611586,14,Liquid Mutual Fund,Success
+27,25389,225103,Medium,Retirement,7842871,11,Equity Mutual Fund,Success
+25,25257,452233,Low,Car Purchase,7368742,25,FD,Success
+27,148334,135771,Low,Buy a House,3599104,23,PPF,Partial
+48,35653,494730,Medium,Retirement,506032,23,Equity Mutual Fund,Partial
+51,25927,462691,High,Child Education,2537408,21,Sukanya Samriddhi,Success
+57,54251,405528,High,Tax Saving,2143922,1,PPF,Success
+47,87545,250370,High,Child Education,2015754,18,Balanced Mutual Fund,Partial
+43,121119,415414,Medium,Retirement,1604318,10,PPF,Partial
+58,78685,441749,Medium,Child Education,4791916,20,PPF,Success
+47,37295,180073,Low,Travel Abroad,4463654,14,Debt Mutual Fund,Partial
+34,115612,190646,High,Emergency Fund,9700027,13,Liquid Mutual Fund,Success
+44,32590,71428,High,Emergency Fund,6959255,1,Savings Account,Partial
+27,26199,255553,High,Child Education,3749081,19,PPF,Success
+24,81708,131545,Medium,Emergency Fund,2439836,18,Savings Account,Success
+44,46169,149784,Medium,Retirement,2102234,20,NPS,Partial
+23,121608,120659,Low,Child Education,8107147,16,Balanced Mutual Fund,Success
+45,60099,242581,Low,Buy a House,4382753,1,FD,Partial
+43,79592,479233,Medium,Tax Saving,2423408,9,ELSS Mutual Fund,Partial
+35,86345,270340,Medium,Emergency Fund,3621219,16,Savings Account,Success
+35,143335,155748,Medium,Tax Saving,8349358,19,PPF,Partial
+59,120637,32643,Low,Emergency Fund,3645221,5,Savings Account,Success
+23,61414,400782,Medium,Retirement,3530621,7,PPF,Partial
+37,60629,70213,Medium,Buy a House,143963,17,Debt Mutual Fund,Success
+59,38751,177836,Low,Car Purchase,2982537,23,Debt Mutual Fund,Failed
+45,141956,424943,Medium,Buy a House,994581,18,FD,Success
+51,79599,235607,Medium,Child Education,7681678,25,PPF,Success
+38,132876,494251,Medium,Buy a House,732753,10,FD,Success
+46,121517,121028,High,Buy a House,9472122,25,FD,Success
+51,40926,188398,Medium,Buy a House,3992938,15,PPF,Success
+46,36486,486826,Medium,Car Purchase,6083198,4,Debt Mutual Fund,Partial
+46,74082,124981,High,Car Purchase,3182777,1,Debt Mutual Fund,Success
+32,143244,13622,Low,Emergency Fund,3242583,2,Liquid Mutual Fund,Success
+46,137299,187538,Low,Car Purchase,4067153,8,Debt Mutual Fund,Partial
+51,129144,429711,Low,Travel Abroad,121123,9,Debt Mutual Fund,Success
+26,120968,294514,Medium,Buy a House,9797114,22,FD,Success
+48,140088,464092,Medium,Retirement,8027325,18,PPF,Partial
+28,72410,414982,High,Tax Saving,5599934,17,ULIP,Success
+23,52466,335223,Medium,Tax Saving,4888144,15,ULIP,Success
+58,66032,120046,Low,Retirement,4055986,10,PPF,Success
+47,126947,417981,Low,Car Purchase,4449742,13,FD,Partial
+38,115955,399775,Medium,Child Education,3532574,17,Sukanya Samriddhi,Failed
+46,78488,32655,Medium,Travel Abroad,6047796,3,Gold ETF,Success
+45,125972,366981,Medium,Buy a House,1159752,25,FD,Success
+45,108048,160141,Low,Buy a House,1116997,17,FD,Success
+52,115188,330274,Low,Tax Saving,4551840,12,PPF,Partial
+40,97086,449559,Low,Tax Saving,8982024,3,ELSS Mutual Fund,Failed
+57,81745,86413,Low,Emergency Fund,5375516,19,Liquid Mutual Fund,Success
+52,105353,145854,Low,Child Education,5413772,7,PPF,Partial
+55,30235,282888,High,Child Education,7643251,3,PPF,Partial
+59,83604,158146,Medium,Tax Saving,4780696,16,ELSS Mutual Fund,Partial
+53,115307,468524,Low,Retirement,5740539,18,NPS,Success
+37,53260,284445,Low,Retirement,3313572,2,Equity Mutual Fund,Success
+40,40079,211194,Low,Retirement,8053657,20,PPF,Success
+32,40632,249057,Medium,Emergency Fund,9850683,15,Savings Account,Partial
+39,134696,147742,Medium,Car Purchase,1400363,5,FD,Success
+52,33196,479754,Medium,Emergency Fund,9006062,3,Liquid Mutual Fund,Success
+30,109911,387778,Low,Emergency Fund,7282412,25,RD,Success
+40,40790,338299,Medium,Child Education,5026379,25,Sukanya Samriddhi,Success
+33,112558,303511,Medium,Emergency Fund,5243369,20,Savings Account,Success
+53,41416,339430,High,Child Education,8428625,22,Balanced Mutual Fund,Success
+37,69188,250745,Medium,Tax Saving,4527661,23,PPF,Partial
+49,143268,201833,Low,Buy a House,3290224,7,FD,Success
+60,81300,493726,Low,Emergency Fund,5325509,2,RD,Partial
+33,53468,476230,Low,Emergency Fund,9764752,9,RD,Partial
+47,143773,272721,Low,Travel Abroad,4585286,6,Gold ETF,Success
+44,108597,111176,Medium,Buy a House,7176754,17,Debt Mutual Fund,Success
+42,148670,39514,Low,Tax Saving,3234108,6,ULIP,Success
+33,86050,485366,High,Child Education,9489631,25,PPF,Success
+52,126046,85588,Low,Tax Saving,5781285,3,PPF,Success
+36,111946,428992,High,Buy a House,1527244,14,PPF,Failed
+52,122805,425061,Low,Tax Saving,2797500,5,ELSS Mutual Fund,Success
+40,139838,495779,Medium,Car Purchase,4845209,1,FD,Failed
+34,47692,473885,High,Child Education,2282410,25,Balanced Mutual Fund,Success
+53,106066,363803,Low,Tax Saving,7198120,25,ULIP,Success
+43,47789,174664,High,Car Purchase,5611605,2,Debt Mutual Fund,Success
+58,147691,386628,Medium,Tax Saving,4809052,12,ULIP,Partial
+55,97718,194965,Medium,Child Education,4110729,13,Sukanya Samriddhi,Failed
+55,100813,330097,Low,Child Education,5294641,6,Sukanya Samriddhi,Partial
+53,63423,348963,Low,Car Purchase,9625213,2,Debt Mutual Fund,Failed
+27,112911,145840,Medium,Emergency Fund,391171,4,RD,Success
+24,82175,81767,Medium,Child Education,3782859,11,Balanced Mutual Fund,Success
+29,119484,138980,Medium,Emergency Fund,3130279,22,Savings Account,Success
+49,142186,52531,Medium,Tax Saving,4984780,5,PPF,Partial
+29,130792,169764,Low,Tax Saving,5855823,19,PPF,Success
+28,134137,287965,Medium,Buy a House,6443732,3,FD,Success
+28,124960,181283,High,Travel Abroad,6091982,6,Gold ETF,Success
+53,50478,114175,High,Retirement,2802409,11,Equity Mutual Fund,Success
+22,134474,441338,Medium,Travel Abroad,5424290,3,Savings Account,Success
+40,102684,205667,Medium,Retirement,7289299,12,NPS,Success
+36,79495,221310,Medium,Travel Abroad,9310957,22,Gold ETF,Failed
+50,36482,369472,Low,Buy a House,8940740,20,PPF,Success
+29,138575,217316,Low,Buy a House,8373402,13,PPF,Success
+46,34175,192241,Medium,Retirement,8512933,24,NPS,Success
+45,28262,145996,Low,Child Education,6118814,5,Sukanya Samriddhi,Success
+57,123253,411148,Low,Tax Saving,2868710,18,PPF,Partial
+25,101638,98584,Medium,Buy a House,1382010,6,Debt Mutual Fund,Success
+33,63258,94834,Low,Travel Abroad,2651958,18,Debt Mutual Fund,Success
+55,47266,137667,Low,Child Education,7987473,7,PPF,Success
+41,42800,336513,Medium,Tax Saving,6286920,21,PPF,Partial
+36,105621,307862,High,Tax Saving,4389530,19,PPF,Partial
+26,72652,225801,Medium,Buy a House,9845835,15,PPF,Failed
+37,57510,437150,High,Travel Abroad,5812429,24,Debt Mutual Fund,Success
+29,129009,439854,Low,Tax Saving,1684024,13,ULIP,Partial
+60,143450,103649,Low,Tax Saving,4595125,1,ULIP,Partial
+55,104559,97298,Medium,Buy a House,2685477,6,Debt Mutual Fund,Success
+40,50539,79280,Medium,Car Purchase,7030185,13,Debt Mutual Fund,Success
+47,74410,364379,Medium,Child Education,654847,16,Balanced Mutual Fund,Failed
+22,78099,350179,Medium,Retirement,7476320,10,NPS,Partial
+56,129313,232577,Medium,Emergency Fund,292562,13,Savings Account,Success
+42,83084,493181,Medium,Emergency Fund,6731632,21,RD,Success
+54,39916,15978,Medium,Tax Saving,3589865,15,ULIP,Partial
+30,40501,160455,Medium,Tax Saving,5221045,7,ELSS Mutual Fund,Success
+60,148276,425319,Medium,Tax Saving,5026981,21,ELSS Mutual Fund,Success
+59,109358,367253,Medium,Buy a House,5714322,18,Debt Mutual Fund,Success
+53,114821,235138,Low,Tax Saving,9866730,9,PPF,Partial
+44,89556,182761,Low,Car Purchase,4262670,9,FD,Success
+41,115279,165621,Medium,Child Education,3643657,2,Sukanya Samriddhi,Success
+58,45389,322421,Medium,Tax Saving,660721,19,ULIP,Success
+50,41592,162050,Low,Car Purchase,8691979,17,FD,Success
+25,59874,21091,Medium,Buy a House,5692276,3,FD,Success
+27,128419,105344,High,Car Purchase,8670920,18,RD,Failed
+32,28639,57489,Low,Tax Saving,3004107,18,PPF,Success
+36,79766,207380,Medium,Car Purchase,9148692,20,RD,Success
+26,29135,347560,Low,Emergency Fund,6334054,13,Savings Account,Success
+56,84691,354415,High,Buy a House,6849300,21,PPF,Success
+28,36345,225853,Medium,Retirement,2913577,13,PPF,Partial
+58,145477,145831,Low,Buy a House,3207523,13,Debt Mutual Fund,Success
+60,130511,310006,Medium,Tax Saving,8920904,23,ULIP,Partial
+26,56049,45658,Low,Buy a House,2490700,1,Debt Mutual Fund,Partial
+42,48814,257840,Medium,Child Education,4153302,1,PPF,Partial
+32,56030,261107,High,Retirement,1346809,21,NPS,Success
+27,74891,141580,Medium,Travel Abroad,8251733,16,Gold ETF,Partial
+48,47120,86644,Medium,Child Education,3555467,9,Balanced Mutual Fund,Partial
+44,74207,301248,Low,Child Education,5005265,23,Balanced Mutual Fund,Failed
+39,63156,423736,Medium,Child Education,6439816,23,PPF,Partial
+23,141444,317026,Low,Retirement,1486401,15,NPS,Success
+52,36035,397297,Low,Buy a House,1881638,20,FD,Success
+41,123706,95566,Low,Child Education,1013488,12,PPF,Success
+33,121061,480909,Low,Child Education,2684572,23,PPF,Partial
+30,147709,337489,High,Tax Saving,7206992,24,ULIP,Success
+53,75095,222664,Medium,Retirement,8072238,10,NPS,Partial
+22,66242,462121,Medium,Tax Saving,903964,21,ULIP,Partial
+53,99067,437481,High,Tax Saving,817860,4,ELSS Mutual Fund,Success
+33,57543,457483,High,Tax Saving,2410893,12,ELSS Mutual Fund,Partial
+44,33615,228637,High,Car Purchase,7717411,1,Debt Mutual Fund,Success
+37,82585,51132,Low,Retirement,1414923,24,NPS,Partial
+54,121519,427535,Medium,Travel Abroad,4868883,17,Debt Mutual Fund,Success
+32,104295,286509,Low,Car Purchase,4374440,19,FD,Failed
+31,131235,52120,Medium,Buy a House,3474010,11,FD,Partial
+47,118722,118405,Medium,Buy a House,8867272,8,FD,Success
+43,32596,491849,High,Emergency Fund,4268090,22,Savings Account,Success
+35,78236,291898,Medium,Child Education,9344981,19,Balanced Mutual Fund,Success
+32,67162,289287,Low,Emergency Fund,1244939,22,Savings Account,Success
+59,38279,209076,Medium,Travel Abroad,3150439,7,Gold ETF,Success
+43,102520,288509,Medium,Child Education,7831589,9,PPF,Success
+55,91378,206574,Medium,Travel Abroad,2212150,3,Savings Account,Success
+42,70625,245190,Low,Emergency Fund,6741984,13,RD,Success
+51,115595,18317,High,Child Education,6760957,10,PPF,Success
+24,37443,455317,High,Child Education,1453815,8,PPF,Partial
+39,104544,17361,Medium,Car Purchase,324496,16,Debt Mutual Fund,Success
+46,78883,282949,Low,Child Education,3760820,15,PPF,Success
+28,113435,429905,Low,Buy a House,5646645,23,PPF,Success
+51,81649,213576,Medium,Retirement,7973450,23,Equity Mutual Fund,Partial
+38,138122,33824,Low,Retirement,8885720,8,PPF,Partial
+50,129580,117104,Low,Retirement,736009,1,PPF,Partial
+34,78903,50836,Low,Retirement,7771823,12,PPF,Success
+54,148580,418800,Low,Car Purchase,8625463,3,FD,Partial
+27,65228,417214,High,Buy a House,7235280,25,Debt Mutual Fund,Success
+24,55861,252276,Medium,Buy a House,2267046,4,Debt Mutual Fund,Success
